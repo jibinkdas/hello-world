@@ -11,3 +11,6 @@ gps for location,accelerometer for orientation,and tf mini lidar for distance ca
 2.BASIC TEST 
 
     It contains the arduino code for test the modules
+3. FINAL CODE
+
+    Arduino code for interfacing 3 modules
